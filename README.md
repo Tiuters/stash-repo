@@ -1,3 +1,3 @@
 # stash-repo
 
-Additional several words
+Additional several words. One more edit on github.
