@@ -1,3 +1,1 @@
-# stash-repo
-
-Additional several words. Now modified locally.
+Modified manually during conflict resolution
